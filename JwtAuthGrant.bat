@@ -1,0 +1,1 @@
+sfdx force:auth:jwt:grant -u shruthi.kunchinadkadxhub@accenture.com -i 3MVG9d8..z.hDcPJh_eFgowAnC7qF8guxB_5Sk.IWlDmWA4pVIN95Q5I.3RsCa6I7.8iiZ7dYIw.3fkhFJ3t4 -f C:\Users\shruthi.kunchinadka\Documents\Accenture\myCerts\site-file.key
